@@ -1,6 +1,6 @@
 /*********************
 ‰Û‘è‚R
-•Ï”radius‚ÉÀ”’n2.0‚ğ‘ã“ü‚µA
+•Ï”radius‚ÉÀ”’n5.0‚ğ‘ã“ü‚µA
 ”¼Œaradius‚É‰~üA‰~‚Ì–ÊÏ‚ğŒvZ‚µ
 ÀsŒ‹‰Ê‚ğ•\¦‚·‚éƒvƒƒOƒ‰ƒ€
 *****/
@@ -18,15 +18,15 @@ void main(void){
 
 double radius;
 
-radius=2.0;
-radius=2.0*2*3.141593;
+radius=5.0;
+radius=5.0*2*3.141593;
 
-printf("”¼Œa2.000000‚Ì‰~ü‚Í%f‚Å‚·B\n",radius);
+printf("”¼Œa5.000000‚Ì‰~ü‚Í%f‚Å‚·B\n",radius);
 
 
 radius=5.0;
 radius=5.0*5.0*3.141593;
 
-printf("”¼Œa2.000000‚Ì‰~‚Ì–ÊÏ‚Í%f‚Å‚·B\n",radius);
+printf("”¼Œa5.000000‚Ì‰~‚Ì–ÊÏ‚Í%f‚Å‚·B\n",radius);
 }
 
