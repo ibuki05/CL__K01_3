@@ -21,12 +21,12 @@ double radius;
 radius=5.0;
 radius=5.0*2*3.141593;
 
-printf("”¼Œa5.000000‚Ì‰~ü‚Í%f‚Å‚·B\n",radius);
+printf("”¼Œa2.000000‚Ì‰~ü‚Í%f‚Å‚·B\n",radius);
 
 
 radius=5.0;
 radius=5.0*5.0*3.141593;
 
-printf("”¼Œa5.000000‚Ì‰~‚Ì–ÊÏ‚Í%f‚Å‚·B\n",radius);
+printf("”¼Œa2.000000‚Ì‰~‚Ì–ÊÏ‚Í%f‚Å‚·B\n",radius);
 }
 
